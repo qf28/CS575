@@ -1,5 +1,4 @@
 
-<h1>Posts View</h1>
 <p><?php echo $this->Html->link('Return to Main Page', array('action' => 'main', 'controller' => 'Papers')); ?></p>
 <p><?php echo $this->Html->link('Add Post', array('action' => 'add')); ?></p>
 <table>

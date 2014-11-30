@@ -2,4 +2,7 @@
 
 <p><small>Created: <?php echo $paper['Paper']['created']; ?></small></p>
 
+<p>Category: <?php echo h($paper['Paper']['category']); ?></p>
+<p>Author: <?php echo h($paper['Paper']['author']); ?></p>
+<p>Publish Date: <?php echo h($paper['Paper']['publishdate']); ?></p>
 <p><?php echo h($paper['Paper']['body']); ?></p>
