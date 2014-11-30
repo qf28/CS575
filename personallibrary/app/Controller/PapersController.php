@@ -4,6 +4,10 @@ class PapersController extends AppController {
     public $helpers = array('Html', 'Form','Session');
     public $components = array('Session');
 
+    public function main() {
+        $this->set('papers', $this->Paper->find('all'));
+    }
+
 
     public function index() {
         $this->set('papers', $this->Paper->find('all'));
@@ -59,10 +63,6 @@ public function edit($id = null) {
         $this->request->data = $paper;
     }
 }
-
-
-
-
 
 
 

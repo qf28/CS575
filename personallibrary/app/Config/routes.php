@@ -27,7 +27,7 @@
  * how to customize the loading of plugin routes.
  */
 // Router::connect('/', array('controller' => 'posts', 'action' => 'index'));
-Router::connect('/', array('controller' => 'papers', 'action' => 'index'));
+Router::connect('/', array('controller' => 'papers', 'action' => 'main'));
 	CakePlugin::routes();
 
 /**

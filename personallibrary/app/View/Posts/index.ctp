@@ -1,19 +1,21 @@
 
-<h1>Blog posts</h1>
+<h1>Posts View</h1>
+<p><?php echo $this->Html->link('Return to Main Page', array('action' => 'main', 'controller' => 'Papers')); ?></p>
 <p><?php echo $this->Html->link('Add Post', array('action' => 'add')); ?></p>
 <table>
     <tr>
-        <th>Id</th>
+        <!-- <th>Id</th> -->
         <th>Title</th>
         <th>Actions</th>
         <th>Created</th>
+        <th>Updated</th>
     </tr>
 
 <!-- Here's where we loop through our $posts array, printing out post info -->
 
     <?php foreach ($posts as $post): ?>
     <tr>
-        <td><?php echo $post['Post']['id']; ?></td>
+        <!-- <td><?php echo $post['Post']['id']; ?></td> -->
         <td>
             <?php
                 echo $this->Html->link(
@@ -38,6 +40,9 @@
         </td>
         <td>
             <?php echo $post['Post']['created']; ?>
+        </td>
+        <td>
+            <?php echo $post['Post']['modified']; ?>
         </td>
     </tr>
     <?php endforeach; ?>
