@@ -20,14 +20,18 @@
 
 
 <p><?php echo $this->Html->link('Add Post', array('action' => 'add')); ?></p>
-
+<?php
+$paginator = $this->Paginator;
+?>
 <table>
     <tr>
         <!-- <th>Id</th> -->
-        <th>Title</th>
+        <th><?php echo $paginator->sort('Post.title', 'Title'); ?></th>
+
         <th>Actions</th>
-        <th>Created</th>
-        <th>Updated</th>
+        <th><?php echo $paginator->sort('Paper.created', 'Created'); ?></th>
+        <th><?php echo $paginator->sort('Paper.modified', 'Modified'); ?></th>
+
     </tr>
 
 <!-- Here's where we loop through our $posts array, printing out post info -->

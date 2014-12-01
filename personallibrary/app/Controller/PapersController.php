@@ -10,11 +10,19 @@ class PapersController extends AppController {
 
 
     public function index() {
-        $this->set('papers', $this->Paper->find('all'));
+        $this->paginate = array(
+            'order' => array('id' => 'desc')
+        );
+     
+
+        $papers = $this->paginate('Paper');
+        // $this->set('papers', $this->Paper->find('all'));
+        $this->set('papers',$papers);
     }
 
 
     public function view($id) {
+
         if (!$id) {
             throw new NotFoundException(__('Invalid paper'));
         }
@@ -24,6 +32,7 @@ class PapersController extends AppController {
             throw new NotFoundException(__('Invalid paper'));
         }
         $this->set('paper', $paper);
+
     }
 
     public function add() {

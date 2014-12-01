@@ -2,7 +2,6 @@
 <h1><?php echo h($paper['Paper']['title']); ?></h1>
 
 
-<iframe width="100%" height="400" src='$paper['Paper']['body']'></iframe>
 <p><small>Created: <?php echo $paper['Paper']['created']; ?></small></p>
 
 <p>Category: <?php echo h($paper['Paper']['category']); ?></p>

@@ -6,7 +6,16 @@ class PostsController extends AppController {
 
 
     public function index() {
-        $this->set('posts', $this->Post->find('all'));
+
+         $this->set('posts', $this->Post->find('all'));
+        $this->paginate = array(
+            'order' => array('id' => 'desc')
+        );
+     
+
+        $posts = $this->paginate('Post');
+        $this->set('posts',$posts);
+    
     }
 
 
@@ -59,10 +68,6 @@ public function edit($id = null) {
         $this->request->data = $post;
     }
 }
-
-
-
-
 
 
 

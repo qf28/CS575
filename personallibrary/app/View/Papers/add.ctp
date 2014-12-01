@@ -9,5 +9,6 @@ echo $this->Form->input('publishdate');
 echo $this->Form->submit('Submit', 
         array('after' => $this->Html->link('Cancel', array('action' => 'index')))
 );
-echo $this->Form->end('Save Paper');
+// echo $this->Form->end('Save Paper');
+echo $this->Form->end();
 ?>
