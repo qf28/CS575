@@ -6,7 +6,7 @@ class Paper extends AppModel {
         'title' => array(
             'rule' => 'notEmpty'
         ),
-        'body' => array(
+        'file' => array(
             'rule' => 'notEmpty'
         )
     );

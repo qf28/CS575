@@ -5,7 +5,7 @@ class PapersController extends AppController {
     public $components = array('Session');
 
     public function main() {
-        $this->set('papers', $this->Paper->find('all'));
+        // $this->set('papers', $this->Paper->find('all'));
     }
 
 
@@ -27,12 +27,14 @@ class PapersController extends AppController {
     }
 
     public function add() {
-        if ($this->request->is('paper')) {
+        if ($this->request->is('post')) {
+            
             $this->Paper->create();
             if ($this->Paper->save($this->request->data)) {
                 $this->Session->setFlash(__('Your paper has been saved.'));
                 return $this->redirect(array('action' => 'index'));
             }
+
             $this->Session->setFlash(__('Unable to add your paper.'));
         }
     }

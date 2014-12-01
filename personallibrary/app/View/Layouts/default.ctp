@@ -18,8 +18,9 @@ $cakeDescription = __d('cake_dev', 'My Personal Library');
 $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 ?>
 <!DOCTYPE html>
-<html>
+<html data-ng-app>
 <head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular.min.js" ></script>
 	<?php echo $this->Html->charset(); ?>
 	<title>
 		<?php echo $cakeDescription ?>
@@ -34,12 +35,13 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 		echo $this->fetch('css');
 		echo $this->fetch('script');
 	?>
+
 </head>
 <body>
 	<div id="container">
-		<div id="header">
+<!-- 		<div id="header">
 			<h1 style="text-align:center"><?php echo $this->Html->link($cakeDescription, ''); ?></h1>
-		</div>
+		</div> -->
 		<div id="content">
 
 			<?php echo $this->Session->flash(); ?>
@@ -47,9 +49,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 			<?php echo $this->fetch('content'); ?>
 		</div>
 		<div id="footer">
-			
 		</div>
 	</div>
-	
 </body>
 </html>

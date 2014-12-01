@@ -25,6 +25,11 @@
 		"phpunit/phpunit": "3.7.*",
 		"cakephp/debug_kit" : "2.2.*"
 	},
+	
+  	"require": {
+    	"cakephp/debug_kit": "2.2.*"
+  	},
+
 	"bin": [
 		"lib/Cake/Console/cake"
 	]

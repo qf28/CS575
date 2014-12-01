@@ -1,5 +1,23 @@
+<head>
+<style>
+#header2 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-size: 250%;
+}
+</style>
+</head>
 
-<p><?php echo $this->Html->link('Return to Main Page', array('action' => 'main', 'controller' => 'Papers')); ?></p>
+<body>
+
+<div id="header2">
+<a style="text-align:center" href="/CS575/personallibrary">My Personal Library</a>
+</div>
+<p> </p>
+<p> </p>
+
 <p><?php echo $this->Html->link('Upload new paper', array('action' => 'add', 'controller' => 'Papers')); ?></p>
 
 <table>
@@ -36,11 +54,7 @@
                     array('confirm' => 'Are you sure?')
                 );
             ?>
-<!--             <?php
-                echo $this->Html->link(
-                    'Edit', array('action' => 'edit', $paper['Paper']['id'])
-                );
-            ?> -->
+
         </td>
         <td>
             <?php echo $paper['Paper']['created']; ?>

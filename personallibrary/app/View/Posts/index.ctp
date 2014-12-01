@@ -1,6 +1,26 @@
+<head>
+<style>
+#header2 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    font-size: 250%;
+}
+</style>
+</head>
 
-<p><?php echo $this->Html->link('Return to Main Page', array('action' => 'main', 'controller' => 'Papers')); ?></p>
+<body>
+
+<div id="header2">
+<a style="text-align:center" href="/CS575/personallibrary">My Personal Library</a>
+</div>
+<p> </p>
+<p> </p>
+
+
 <p><?php echo $this->Html->link('Add Post', array('action' => 'add')); ?></p>
+
 <table>
     <tr>
         <!-- <th>Id</th> -->
