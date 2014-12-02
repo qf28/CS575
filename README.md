@@ -1,2 +1,1 @@
-CS575
-=====
+Price Tracker
