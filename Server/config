@@ -1,0 +1,8 @@
+hostname,localhost
+port,3306
+dbname,cakephp
+tablename,products
+username,root
+password,123
+senderemail,fengqiong8@gmail.com
+senderpassword,4517107PeterHu

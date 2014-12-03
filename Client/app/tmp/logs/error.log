@@ -1,0 +1,1962 @@
+2014-11-30 15:06:37 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:06:57 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:07:01 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:25:12 Error: Fatal Error (4): syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE) in [/Applications/MAMP/htdocs/cakephp/app/View/Papers/add.ctp, line 6]
+2014-11-30 15:25:12 Error: [FatalErrorException] syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE)
+Request URL: /cakephp/papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 15:25:31 Error: Fatal Error (4): syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE) in [/Applications/MAMP/htdocs/cakephp/app/View/Papers/add.ctp, line 6]
+2014-11-30 15:25:31 Error: [FatalErrorException] syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE)
+Request URL: /cakephp/papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 15:27:42 Error: Fatal Error (4): syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE) in [/Applications/MAMP/htdocs/cakephp/app/View/Papers/add.ctp, line 6]
+2014-11-30 15:27:42 Error: [FatalErrorException] syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE)
+Request URL: /cakephp/papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 15:29:25 Error: Fatal Error (4): syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE) in [/Applications/MAMP/htdocs/cakephp/app/View/Papers/add.ctp, line 6]
+2014-11-30 15:29:25 Error: [FatalErrorException] syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE)
+Request URL: /cakephp/papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 15:29:37 Error: Fatal Error (4): syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE) in [/Applications/MAMP/htdocs/cakephp/app/View/Papers/add.ctp, line 6]
+2014-11-30 15:29:37 Error: [FatalErrorException] syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE)
+Request URL: /cakephp/papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 15:29:51 Error: Fatal Error (4): syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE) in [/Applications/MAMP/htdocs/cakephp/app/View/Papers/add.ctp, line 6]
+2014-11-30 15:29:51 Error: [FatalErrorException] syntax error, unexpected ''Save Paper);' (T_ENCAPSED_AND_WHITESPACE)
+Request URL: /cakephp/papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 15:40:41 Error: [MissingControllerException] Controller class PostsControllerController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsControllerController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/postsController/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:40:59 Error: [MissingControllerException] Controller class PostsControllerController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsControllerController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/postsController/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:41:10 Error: [MissingControllerException] Controller class PostsControllerController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsControllerController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/PostsController/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:42:07 Error: [MissingControllerException] Controller class PostsControllerController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsControllerController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/PostsController
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 15:53:20 Error: Fatal Error (4): syntax error, unexpected 'cake_dev' (T_STRING) in [/Applications/MAMP/htdocs/cakephp/app/View/Layouts/default.ctp, line 18]
+2014-11-30 15:53:20 Error: [FatalErrorException] syntax error, unexpected 'cake_dev' (T_STRING)
+Request URL: /cakephp/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 18, Array)
+#2 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 18, Array)
+#3 /Applications/MAMP/htdocs/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 16:41:59 Error: Fatal Error (4): syntax error, unexpected ''controller'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/main.ctp, line 2]
+2014-11-30 16:41:59 Error: [FatalErrorException] syntax error, unexpected ''controller'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /CS575/personallibrary/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 2, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 2, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 16:42:44 Error: Fatal Error (4): syntax error, unexpected ''controller'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/main.ctp, line 2]
+2014-11-30 16:42:44 Error: [FatalErrorException] syntax error, unexpected ''controller'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /CS575/personallibrary/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 2, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 2, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 16:42:49 Error: [MissingControllerException] Controller class AddController could not be found.
+Exception Attributes: array (
+  'class' => 'AddController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 16:43:23 Error: [MissingControllerException] Controller class AddController could not be found.
+Exception Attributes: array (
+  'class' => 'AddController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 16:55:33 Error: [MissingActionException] Action PostsController::main() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'main',
+)
+Request URL: /CS575/personallibrary/Posts/main
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-11-30 16:55:45 Error: [MissingActionException] Action PostsController::main() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'main',
+)
+Request URL: /CS575/personallibrary/Posts/main
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-11-30 16:55:48 Error: [MissingActionException] Action PostsController::main() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'main',
+)
+Request URL: /CS575/personallibrary/Posts/main
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-11-30 18:07:02 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/http//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-animate.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 18:07:02 Error: [MissingControllerException] Controller class UndefinedController could not be found.
+Exception Attributes: array (
+  'class' => 'UndefinedController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/undefined
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 18:07:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/http//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-animate.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 18:08:18 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/http//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular-animate.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 18:09:18 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/http//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-30 18:51:22 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cancel' at line 1
+Request URL: /CS575/personallibrary/Papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('cancel', Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('cancel', Array, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('cancel', Array, Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Model.php(808): DboSource->query('cancel', Array, Object(Paper))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Model->__call('cancel', Array)
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Paper->cancel(Array)
+#7 [internal function]: PapersController->add()
+#8 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#9 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-11-30 18:51:39 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cancel' at line 1
+Request URL: /CS575/personallibrary/Papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('cancel', Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('cancel', Array, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('cancel', Array, Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Model.php(808): DboSource->query('cancel', Array, Object(Paper))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Model->__call('cancel', Array)
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Paper->cancel(Array)
+#7 [internal function]: PapersController->add()
+#8 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#9 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-11-30 18:51:45 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cancel' at line 1
+Request URL: /CS575/personallibrary/Papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('cancel', Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('cancel', Array, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('cancel', Array, Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Model.php(808): DboSource->query('cancel', Array, Object(Paper))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Model->__call('cancel', Array)
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Paper->cancel(Array)
+#7 [internal function]: PapersController->add()
+#8 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#9 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-11-30 18:52:13 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cancel' at line 1
+Request URL: /CS575/personallibrary/Papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('cancel', Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('cancel', Array, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('cancel', Array, Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Model.php(808): DboSource->query('cancel', Array, Object(Paper))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Model->__call('cancel', Array)
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Paper->cancel(Array)
+#7 [internal function]: PapersController->add()
+#8 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#9 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-11-30 18:52:41 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cancel' at line 1
+Request URL: /CS575/personallibrary/Papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('cancel', Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('cancel', Array, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('cancel', Array, Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Model.php(808): DboSource->query('cancel', Array, Object(Paper))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Model->__call('cancel', Array)
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Paper->cancel(Array)
+#7 [internal function]: PapersController->add()
+#8 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#9 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-11-30 18:53:13 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cancel' at line 1
+Request URL: /CS575/personallibrary/Papers/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('cancel', Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('cancel', Array, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('cancel', Array, Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Model/Model.php(808): DboSource->query('cancel', Array, Object(Paper))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Model->__call('cancel', Array)
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(37): Paper->cancel(Array)
+#7 [internal function]: PapersController->add()
+#8 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#9 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-11-30 19:47:43 Error: Fatal Error (1): Class 'imagick' not found in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 6]
+2014-11-30 19:47:43 Error: [FatalErrorException] Class 'imagick' not found
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'imagick'...', '/Applications/M...', 6)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'imagick'...', '/Applications/M...', 6, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'imagick'...', '/Applications/M...', 6, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-30 19:49:19 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper['Paper']['body']
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper['Paper']...')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-11-30 19:49:50 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper['Paper']['body']
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper['Paper']...')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-11-30 19:50:00 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper['Paper']['body']
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper['Paper']...')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-11-30 19:51:31 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper[
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper[')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 10:09:32 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper[
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper[')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 10:14:13 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper[
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper[')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 10:14:17 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper[
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper[')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 10:14:24 Error: [NotFoundException] Invalid paper
+Request URL: /CS575/personallibrary/Papers/view/$paper[
+Stack Trace:
+#0 [internal function]: PapersController->view('$paper[')
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 10:21:25 Error: Fatal Error (1): Call to a member function link() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:21:25 Error: [FatalErrorException] Call to a member function link() on null
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:21:42 Error: Fatal Error (1): Call to a member function link() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:21:42 Error: [FatalErrorException] Call to a member function link() on null
+Request URL: /CS575/personallibrary/Papers/view/4
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:22:11 Error: Fatal Error (1): Call to a member function link() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:22:11 Error: [FatalErrorException] Call to a member function link() on null
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:23:16 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:23:16 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:23:38 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:23:38 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:30:33 Error: [NotFoundException] The requested file /Applications/MAMP/htdocs/CS575/personallibrary/app/my.fordham.edu.pdf was not found or not readable
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(29): CakeResponse->file('my.fordham.edu....')
+#1 [internal function]: PapersController->view('6')
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-12-01 10:31:24 Error: [NotFoundException] The requested file /Applications/MAMP/htdocs/CS575/personallibrary/app/my.fordham.edu.pdf was not found or not readable
+Request URL: /CS575/personallibrary/Papers/view/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PapersController.php(29): CakeResponse->file('my.fordham.edu....')
+#1 [internal function]: PapersController->view('6')
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PapersController), Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PapersController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-12-01 10:45:48 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:45:48 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CS575/personallibrary/Papers/view/2
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:46:22 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:46:22 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CS575/personallibrary/Papers/view/2
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 10:47:13 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/view.ctp, line 4]
+2014-12-01 10:47:13 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CS575/personallibrary/Papers/view/2
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 4, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:24:21 Error: Fatal Error (1): Call to a member function sort() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/index.ctp, line 27]
+2014-12-01 12:24:21 Error: [FatalErrorException] Call to a member function sort() on null
+Request URL: /CS575/personallibrary/Papers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:24:59 Error: Fatal Error (1): Call to a member function sort() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/index.ctp, line 27]
+2014-12-01 12:24:59 Error: [FatalErrorException] Call to a member function sort() on null
+Request URL: /CS575/personallibrary/Papers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 27, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 27, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:29:05 Error: Fatal Error (1): Call to a member function sort() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/index.ctp, line 26]
+2014-12-01 12:29:05 Error: [FatalErrorException] Call to a member function sort() on null
+Request URL: /CS575/personallibrary/Papers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:29:40 Error: Fatal Error (1): Call to a member function sort() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/index.ctp, line 26]
+2014-12-01 12:29:40 Error: [FatalErrorException] Call to a member function sort() on null
+Request URL: /CS575/personallibrary/Papers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:29:48 Error: Fatal Error (1): Call to a member function sort() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Papers/index.ctp, line 26]
+2014-12-01 12:29:48 Error: [FatalErrorException] Call to a member function sort() on null
+Request URL: /CS575/personallibrary/Papers
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:46:52 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 9]
+2014-12-01 12:46:52 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 9, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 9, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 12:58:09 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/add.ctp, line 7]
+2014-12-01 12:58:09 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /CS575/personallibrary/Posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 7, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 7, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 13:01:04 Error: Fatal Error (4): syntax error, unexpected '{' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 41]
+2014-12-01 13:01:04 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /CS575/personallibrary/Posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 41, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 41, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:30:29 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:30:30 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:30:34 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:30:34 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:31:50 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:31:50 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:31:52 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:31:52 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:33:56 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:33:56 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:34:27 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:34:27 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:34:29 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:34:29 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:35:05 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:35:05 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:40:31 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:40:31 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:40:39 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:40:39 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:41:49 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:41:49 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:41:50 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:41:50 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:45:57 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:45:57 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:47:36 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:47:36 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:47:38 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:47:38 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:47:56 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:47:56 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:48:08 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:48:08 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:48:31 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:48:31 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:48:31 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:48:31 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:49:08 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:49:08 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:49:40 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:49:40 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:49:41 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:49:41 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:50:47 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:50:47 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:52:13 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:52:13 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:52:56 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:52:56 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:53:22 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:53:22 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 14:53:22 Error: Fatal Error (4): syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/List.php, line 3]
+2014-12-01 14:53:22 Error: [FatalErrorException] syntax error, unexpected 'List' (T_LIST), expecting identifier (T_STRING)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 3, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:02:21 Error: [MissingControllerException] Controller class ListsController could not be found.
+Exception Attributes: array (
+  'class' => 'ListsController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 15:02:28 Error: [MissingControllerException] Controller class ListsController could not be found.
+Exception Attributes: array (
+  'class' => 'ListsController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/Lists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 15:03:00 Error: [MissingModelException] wishlist
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate('wishlist', Array, Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php(17): Controller->paginate('wishlist')
+#2 [internal function]: WishlistsController->index()
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(WishlistsController), Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-12-01 15:03:00 Error: [MissingModelException] wishlist
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate('wishlist', Array, Array)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php(17): Controller->paginate('wishlist')
+#2 [internal function]: WishlistsController->index()
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(WishlistsController), Array)
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2014-12-01 15:04:20 Error: Fatal Error (4): syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php, line 19]
+2014-12-01 15:04:20 Error: [FatalErrorException] syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 19, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 19, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:15:04 Error: [NotFoundException] id is not valid
+Request URL: /CS575/personallibrary/Wishlists/view
+Stack Trace:
+#0 [internal function]: WishlistsController->view()
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(WishlistsController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:15:14 Error: [NotFoundException] id is not valid
+Request URL: /CS575/personallibrary/Wishlists/view
+Stack Trace:
+#0 [internal function]: WishlistsController->view()
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(WishlistsController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:19:26 Error: [NotFoundException] id is not valid
+Request URL: /CS575/personallibrary/Wishlists/view
+Stack Trace:
+#0 [internal function]: WishlistsController->view()
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(WishlistsController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:19:45 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Wishlists/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Wishlists/delete.ctp',
+)
+Request URL: /CS575/personallibrary/Wishlists/delete
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:24:22 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Wishlists/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Wishlists/delete.ctp',
+)
+Request URL: /CS575/personallibrary/Wishlists/delete
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:24:40 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /CS575/personallibrary/Wishlists/delete
+Stack Trace:
+#0 [internal function]: WishlistsController->delete()
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(WishlistsController), Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:24:47 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Wishlists/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Wishlists/delete.ctp',
+)
+Request URL: /CS575/personallibrary/Wishlists/delete
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(WishlistsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-01 15:42:07 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php, line 20]
+2014-12-01 15:42:07 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:42:29 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php, line 20]
+2014-12-01 15:42:29 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:42:34 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php, line 20]
+2014-12-01 15:42:34 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:43:38 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/WishlistsController.php, line 20]
+2014-12-01 15:43:38 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 20, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:56:42 Error: Fatal Error (64): Cannot redeclare class Paper in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/Wishlist.php, line 10]
+2014-12-01 15:56:42 Error: [FatalErrorException] Cannot redeclare class Paper
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 10)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 10, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 10, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:56:43 Error: Fatal Error (64): Cannot redeclare class Paper in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/Wishlist.php, line 10]
+2014-12-01 15:56:43 Error: [FatalErrorException] Cannot redeclare class Paper
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 10)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 10, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 10, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 15:56:45 Error: Fatal Error (64): Cannot redeclare class Paper in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Model/Wishlist.php, line 10]
+2014-12-01 15:56:45 Error: [FatalErrorException] Cannot redeclare class Paper
+Request URL: /CS575/personallibrary/Wishlists
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 10)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 10, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 10, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:04:30 Error: [MissingActionException] Action PostsController::google.com() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'google.com',
+)
+Request URL: /CS575/personallibrary/posts/google.com
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-01 17:06:07 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 32]
+2014-12-01 17:06:07 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /CS575/personallibrary/posts/google.com
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:06:11 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 32]
+2014-12-01 17:06:11 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /CS575/personallibrary/posts/google.com
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:06:11 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 32]
+2014-12-01 17:06:11 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /CS575/personallibrary/posts/google.com
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:06:11 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 32]
+2014-12-01 17:06:11 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /CS575/personallibrary/posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:08:29 Error: [MissingActionException] Action PostsController::12() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => '12',
+)
+Request URL: /CS575/personallibrary/posts/12
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-01 17:09:01 Error: Fatal Error (4): syntax error, unexpected 'Post' (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 32]
+2014-12-01 17:09:01 Error: [FatalErrorException] syntax error, unexpected 'Post' (T_STRING)
+Request URL: /CS575/personallibrary/posts/view/12
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:09:01 Error: Fatal Error (4): syntax error, unexpected 'Post' (T_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/Controller/PostsController.php, line 32]
+2014-12-01 17:09:01 Error: [FatalErrorException] syntax error, unexpected 'Post' (T_STRING)
+Request URL: /CS575/personallibrary/posts/view/12
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 32, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:13:18 Error: Fatal Error (4): syntax error, unexpected 'Post' (T_STRING), expecting ',' or ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:13:18 Error: [FatalErrorException] syntax error, unexpected 'Post' (T_STRING), expecting ',' or ';'
+Request URL: /CS575/personallibrary/posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:13:33 Error: Fatal Error (4): syntax error, unexpected 'Post' (T_STRING), expecting ',' or ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:13:33 Error: [FatalErrorException] syntax error, unexpected 'Post' (T_STRING), expecting ',' or ';'
+Request URL: /CS575/personallibrary/posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:14:19 Error: [MissingControllerException] Controller class Pageyouwishtolinkto.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Pageyouwishtolinkto.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/pageyouwishtolinkto.html
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:15:24 Error: [MissingControllerException] Controller class $post['Post']['link']Controller could not be found.
+Exception Attributes: array (
+  'class' => '$post[\'Post\'][\'link\']Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/$post['Post']['link']
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:15:44 Error: [MissingControllerException] Controller class $post[Controller could not be found.
+Exception Attributes: array (
+  'class' => '$post[Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/$post[
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:16:17 Error: [MissingControllerException] Controller class Www.google.comController could not be found.
+Exception Attributes: array (
+  'class' => 'Www.google.comController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/www.google.com
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:19:05 Error: [MissingControllerException] Controller class Www.google.comController could not be found.
+Exception Attributes: array (
+  'class' => 'Www.google.comController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/www.google.com
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:21:37 Error: [MissingControllerException] Controller class $post['Post']['link']Controller could not be found.
+Exception Attributes: array (
+  'class' => '$post[\'Post\'][\'link\']Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/$post['Post']['link']
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:23:30 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:23:30 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /CS575/personallibrary/posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:26:07 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:26:07 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CS575/personallibrary/posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:26:14 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:26:14 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:26:17 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:26:17 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:26:44 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:26:44 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:26:59 Error: Fatal Error (4): syntax error, unexpected '$post' (T_VARIABLE), expecting ',' or ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:26:59 Error: [FatalErrorException] syntax error, unexpected '$post' (T_VARIABLE), expecting ',' or ';'
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:27:53 Error: Fatal Error (4): syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 71]
+2014-12-01 17:27:53 Error: [FatalErrorException] syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 71, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:28:36 Error: [MissingControllerException] Controller class $post['Post']['link']Controller could not be found.
+Exception Attributes: array (
+  'class' => '$post[\'Post\'][\'link\']Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/$post['Post']['link']
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:29:45 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 72]
+2014-12-01 17:29:45 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 72)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 72, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 72, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 17:30:13 Error: [MissingControllerException] Controller class $post['Post']['link']Controller could not be found.
+Exception Attributes: array (
+  'class' => '$post[\'Post\'][\'link\']Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/$post['Post']['link']
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:31:06 Error: [MissingControllerException] Controller class $pathController could not be found.
+Exception Attributes: array (
+  'class' => '$pathController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/personallibrary/$path
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-01 17:33:04 Error: Fatal Error (4): syntax error, unexpected 'Post' (T_STRING), expecting ',' or ';' in [/Applications/MAMP/htdocs/CS575/personallibrary/app/View/Posts/index.ctp, line 72]
+2014-12-01 17:33:04 Error: [FatalErrorException] syntax error, unexpected 'Post' (T_STRING), expecting ',' or ';'
+Request URL: /CS575/personallibrary/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 72)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 72, Array)
+#2 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 72, Array)
+#3 /Applications/MAMP/htdocs/CS575/personallibrary/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-01 22:02:21 Error: [MissingControllerException] Controller class $post['Post']['link']Controller could not be found.
+Exception Attributes: array (
+  'class' => '$post[\'Post\'][\'link\']Controller',
+  'plugin' => NULL,
+)
+Request URL: /CS575/p/$post['Post']['link']
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/p/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 00:28:17 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 60]
+2014-12-02 00:28:17 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 60)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 60, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 60, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:29:02 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 60]
+2014-12-02 00:29:02 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/Posts
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 60)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 60, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 60, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:32:29 Error: Fatal Error (64): Cannot redeclare PostsController::$components in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 94]
+2014-12-02 00:32:29 Error: [FatalErrorException] Cannot redeclare PostsController::$components
+Request URL: /CS575/P/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/M...', 94)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/M...', 94, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/M...', 94, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:37:44 Error: Fatal Error (1): Call to a member function user() on null in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 26]
+2014-12-02 00:37:44 Error: [FatalErrorException] Call to a member function user() on null
+Request URL: /CS575/P/posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:37:47 Error: Fatal Error (1): Call to a member function user() on null in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 26]
+2014-12-02 00:37:47 Error: [FatalErrorException] Call to a member function user() on null
+Request URL: /CS575/P/posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:37:50 Error: Fatal Error (1): Call to a member function user() on null in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 26]
+2014-12-02 00:37:50 Error: [FatalErrorException] Call to a member function user() on null
+Request URL: /CS575/P/posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:44:03 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp',
+)
+Request URL: /CS575/P/posts/delete/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/P/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-02 00:44:17 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp',
+)
+Request URL: /CS575/P/posts/delete/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/P/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-02 00:44:23 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp',
+)
+Request URL: /CS575/P/posts/delete/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/P/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-02 00:44:23 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp',
+)
+Request URL: /CS575/P/posts/delete/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/P/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-02 00:44:24 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/P/app/View/Posts/delete.ctp',
+)
+Request URL: /CS575/P/posts/delete
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/P/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-02 00:44:42 Error: Fatal Error (1): Call to a member function user() on null in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 26]
+2014-12-02 00:44:42 Error: [FatalErrorException] Call to a member function user() on null
+Request URL: /CS575/P/posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 26)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 26, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:48:58 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 49]
+2014-12-02 00:48:58 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:49:02 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 49]
+2014-12-02 00:49:02 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:49:04 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 49]
+2014-12-02 00:49:04 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/posts/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:49:06 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 49]
+2014-12-02 00:49:06 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/posts/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:49:07 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 49]
+2014-12-02 00:49:07 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/posts/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 00:49:25 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/P/app/Controller/PostsController.php, line 49]
+2014-12-02 00:49:25 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/P/posts/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#2 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 49, Array)
+#3 /Applications/MAMP/htdocs/CS575/P/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 11:38:51 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/CS575/p/app/View/Posts/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/CS575/p/app/View/Posts/delete.ctp',
+)
+Request URL: /CS575/p/posts/delete/6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/p/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/CS575/p/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/CS575/p/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/CS575/p/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/p/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-02 12:11:22 Error: Fatal Error (4): syntax error, unexpected 'product' (T_STRING) in [/Applications/MAMP/htdocs/CS575/Frontend/app/Controller/ProductsController.php, line 38]
+2014-12-02 12:11:22 Error: [FatalErrorException] syntax error, unexpected 'product' (T_STRING)
+Request URL: /CS575/Frontend/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 38, Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 38, Array)
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 12:11:22 Error: Fatal Error (4): syntax error, unexpected 'product' (T_STRING) in [/Applications/MAMP/htdocs/CS575/Frontend/app/Controller/ProductsController.php, line 38]
+2014-12-02 12:11:22 Error: [FatalErrorException] syntax error, unexpected 'product' (T_STRING)
+Request URL: /CS575/Frontend/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 38, Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 38, Array)
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 12:12:17 Error: Fatal Error (4): syntax error, unexpected 'post' (T_STRING) in [/Applications/MAMP/htdocs/CS575/Frontend/app/Controller/ProductsController.php, line 38]
+2014-12-02 12:12:17 Error: [FatalErrorException] syntax error, unexpected 'post' (T_STRING)
+Request URL: /CS575/Frontend/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 38, Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 38, Array)
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 12:18:44 Error: Fatal Error (1): Call to a member function create() on null in [/Applications/MAMP/htdocs/CS575/Frontend/app/Controller/ProductsController.php, line 41]
+2014-12-02 12:18:44 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /CS575/Frontend/products/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 41, Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 41, Array)
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 12:21:18 Error: [MissingActionException] Action ProductsController::new() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'new',
+)
+Request URL: /CS575/Frontend/products/new
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 12:21:55 Error: [MissingActionException] Action ProductsController::new() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'new',
+)
+Request URL: /CS575/Frontend/products/new
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 12:25:34 Error: [MissingActionException] Action ProductsController::new() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'new',
+)
+Request URL: /CS575/Frontend/products/new
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 12:25:36 Error: [MissingActionException] Action ProductsController::new() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'new',
+)
+Request URL: /CS575/Frontend/products/new
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 12:26:21 Error: Fatal Error (1): Call to a member function create() on null in [/Applications/MAMP/htdocs/CS575/Frontend/app/Controller/ProductsController.php, line 41]
+2014-12-02 12:26:21 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /CS575/Frontend/products/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 41, Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 41, Array)
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 12:26:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Applications/MAMP/htdocs/CS575/Frontend/app/Controller/ProductsController.php, line 54]
+2014-12-02 12:26:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /CS575/Frontend/products/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 54, Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 54, Array)
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 13:34:11 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:35:32 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:36:19 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:36:19 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:36:38 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:36:39 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:36:58 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 13:44:20 Error: [MissingActionException] Action ProductsController::cover.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'cover.css',
+)
+Request URL: /CS575/FRONTEND/products/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 13:46:08 Error: [MissingActionException] Action ProductsController::cover.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'cover.css',
+)
+Request URL: /CS575/FRONTEND/products/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 13:51:02 Error: [MissingActionException] Action ProductsController::cover.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'cover.css',
+)
+Request URL: /CS575/FRONTEND/products/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 13:52:58 Error: [MissingActionException] Action ProductsController::cover.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'cover.css',
+)
+Request URL: /CS575/FRONTEND/products/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 13:53:59 Error: [MissingActionException] Action ProductsController::cover.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'cover.css',
+)
+Request URL: /CS575/FRONTEND/products/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 13:54:35 Error: [MissingActionException] Action ProductsController::cover.css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProductsController',
+  'action' => 'cover.css',
+)
+Request URL: /CS575/FRONTEND/products/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-12-02 15:12:17 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/Applications/MAMP/htdocs/CS575/FRONTEND/app/View/Products/index.ctp, line 25]
+2014-12-02 15:12:17 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /CS575/FRONTEND/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 15:13:11 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/Applications/MAMP/htdocs/CS575/FRONTEND/app/View/Products/index.ctp, line 25]
+2014-12-02 15:13:11 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /CS575/FRONTEND/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 15:13:35 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/Applications/MAMP/htdocs/CS575/FRONTEND/app/View/Products/index.ctp, line 25]
+2014-12-02 15:13:35 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /CS575/FRONTEND/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 15:13:45 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/Applications/MAMP/htdocs/CS575/FRONTEND/app/View/Products/index.ctp, line 25]
+2014-12-02 15:13:45 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /CS575/FRONTEND/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 15:24:07 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/Applications/MAMP/htdocs/CS575/FRONTEND/app/View/Products/index.ctp, line 25]
+2014-12-02 15:24:07 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /CS575/FRONTEND/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/CS575/FRONTEND/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-02 15:34:35 Error: [MissingControllerException] Controller class NEWController could not be found.
+Exception Attributes: array (
+  'class' => 'NEWController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/NEW
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:35:03 Error: [MissingControllerException] Controller class NEWController could not be found.
+Exception Attributes: array (
+  'class' => 'NEWController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/FRONTEND/NEW
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/FRONTEND/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:51:44 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:51:47 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:52:57 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:57:29 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:58:08 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:58:43 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 15:59:25 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 16:00:02 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 16:01:06 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 16:02:10 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 16:02:12 Error: [MissingControllerException] Controller class Cover.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Cover.cssController',
+  'plugin' => NULL,
+)
+Request URL: /CS575/Frontend/cover.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-02 22:58:43 Error: [NotFoundException] Invalid product
+Request URL: /CS575/Frontend/products/view/3
+Stack Trace:
+#0 [internal function]: ProductsController->view('3')
+#1 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProductsController), Array)
+#2 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/CS575/Frontend/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProductsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/CS575/Frontend/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
