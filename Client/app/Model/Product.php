@@ -2,7 +2,7 @@
 
 class Product extends AppModel {
 
-	    public $validate = array(
+	public $validate = array(
         'title' => array(
             'rule' => 'notEmpty'
         ),

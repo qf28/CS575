@@ -44,7 +44,6 @@ class ProductsController extends AppController {
         if (!$product) {
             throw new NotFoundException(__('Invalid product'));
         }
-        // $this->set('product', $product);
         $this->redirect($product['Product']['link']);
     }
 
@@ -54,16 +53,17 @@ class ProductsController extends AppController {
                     if(isset( $this->params['post']['Cancel'])){
             return $this->redirect(array('action' => 'index'));
         }
+
         $this->Product->create();
         
-            if ($this->Product->save($this->request->data)) {
-                $this->Session->setFlash(__('Your watch item has been saved.'));
-                return $this->redirect(array('action' => 'index'));
-            }
-
-            $this->Session->setFlash(__('Unable to add your item.'));
+        if ($this->Product->save($this->request->data)) {
+            $this->Session->setFlash(__('Your watch item has been saved.'));
+            return $this->redirect(array('action' => 'index'));
         }
+
+        $this->Session->setFlash(__('Unable to add your item.'));
     }
+}
 
 
 

@@ -17,16 +17,18 @@ Server is build in Java. It crawls the products' websites the clients saved and 
 
 #### Set up local mysql databse:
 
-create database and table using db.sql
+create database and table using file (CS575/db.sql)
 
 #### Client(Need an environment of web server such as Http Server):
-
 <br>1. Set up : put client folder in a local server folder(I use MAMP/htdocs)</br>
-<br>2. configure database:  Client/app/database.php</br>
+<br>2. configure database:  CS575/Client/app/database.php</br>
 <br>3. open browser: http://localhost:8888/CS575/Client/</br>
 
 #### Server:
+<br>1. Edit config file(CS575/Server/config) with local mysql database information</br>
+<br>2. Build and Run (Go to CS575/Server Folder)</br>
+<br>ant clean</br>
+<br>ant compile</br>
+<br>ant jar</br>
+<br>ant run</br>
 
-<br>1. Edit config file(Server/config) with local mysql database information</br>
-<br>2. Import Server folder to Java IDE such as Eclipse and configure buildpath by adding jars from Server/lib</br>
-<br>3. Run in eclipse IDE.</br>
